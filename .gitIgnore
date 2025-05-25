@@ -1,0 +1,13 @@
+# CMake build folder
+/build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+
+# macOS debug files
+*.dSYM/
+
+# Executables
+main
+SimpleCalc
+*.exe
